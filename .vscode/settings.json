@@ -1,6 +1,9 @@
 {
-    "workbench.startupEditor": "readme",
-    "workbench.editorAssociations": {
-        "*.md": "vscode.markdown.preview.editor"
-    }
+	"workbench.startupEditor": "readme",
+	"workbench.editorAssociations": {
+		"*.md": "vscode.markdown.preview.editor",
+		"*.copilotmd": "vscode.markdown.preview.editor",
+		"*.ipynb": "jupyter-notebook"
+	},
+	"cSpell.words": ["chisquare", "ddof", "displot"]
 }
